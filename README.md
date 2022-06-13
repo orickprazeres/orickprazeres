@@ -6,8 +6,7 @@ Olá, eu sou Ricardo Prazeres
 
 - Ler
 - Jogar videogames
-- Assister Series
-- 
+- Assistir Series
 
 ## Atualmente Estudando
 
