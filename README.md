@@ -1,19 +1,11 @@
 <h1 align="center">Hello 👋, I'm Ricardo Prazeres</h1>
 <h3 align="center">Sou apaixonado por dados e tecnologias</h3>
 
-- 🔭 Estou trabalhando atualmente [project name](project list)
-
 - 🌱 Estou aprendendo **SQL, Python**
 
-- 👯 Estou procurando colaborar [project name](project list)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [portfolio link](https://github.com/orickprazeres?tab=repositories)
 
-- 🤝 Estou procurando ajuda com [project name](project list)
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em [portfolio link](portfolio link)
-
-- Escrevo sobre [blog link](blog link)
-
-- 💬 Pergunte-me sobre **python, SQL**
+- 📖 Escrevo sobre [blog link](blog link)
 
 - 📫 Como chegar até mim **ricardoprazeres@hotmail.com**
 
