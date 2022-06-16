@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Ricardo Prazeres</h1>
+<h1 align="center">Olá 👋, sou Ricardo Prazeres</h1>
 <h3 align="center">Sou apaixonado por dados e tecnologias</h3>
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [portfolio link]([portfolio link](https://github.com/orickprazeres?tab=repositories))
